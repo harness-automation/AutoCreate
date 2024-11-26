@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createyWRLH
+  identifier: env_auto_createyWRLH
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
