@@ -1,0 +1,22 @@
+inputSet:
+  name: inputSet_auto_createoL3BR
+  tags: {}
+  identifier: inputSet_auto_createoL3BR
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  pipeline:
+    identifier: pipeline_auto_createJ2sGm
+    stages:
+      - stage:
+          identifier: sdf
+          type: Approval
+          spec:
+            execution:
+              steps:
+                - step:
+                    identifier: dsc
+                    type: HarnessApproval
+                    spec:
+                      approvers:
+                        userGroups:
+                          - account._account_all_users
