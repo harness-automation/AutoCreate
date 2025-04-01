@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createiFyV1
+  identifier: env_auto_createiFyV1
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
