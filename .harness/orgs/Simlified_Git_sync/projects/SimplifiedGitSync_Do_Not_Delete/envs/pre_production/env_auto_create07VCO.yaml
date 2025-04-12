@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_create07VCO
+  identifier: env_auto_create07VCO
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
