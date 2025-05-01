@@ -1,8 +1,0 @@
-environment:
-  name: env_auto_createCo4Ju
-  identifier: env_auto_createCo4Ju
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
