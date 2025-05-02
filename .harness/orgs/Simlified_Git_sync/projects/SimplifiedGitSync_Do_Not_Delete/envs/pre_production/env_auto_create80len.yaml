@@ -1,8 +1,0 @@
-environment:
-  name: env_auto_create80len
-  identifier: env_auto_create80len
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
