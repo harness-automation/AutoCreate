@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createrwiYt
+  identifier: env_auto_createrwiYt
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
