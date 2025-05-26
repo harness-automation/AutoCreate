@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createuJZuN
+  identifier: env_auto_createuJZuN
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
