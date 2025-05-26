@@ -1,8 +1,0 @@
-environment:
-  name: env_auto_createvpHSl
-  identifier: env_auto_createvpHSl
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
