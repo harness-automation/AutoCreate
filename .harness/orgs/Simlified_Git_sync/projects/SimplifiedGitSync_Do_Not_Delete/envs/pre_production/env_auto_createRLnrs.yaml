@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createRLnrs
+  identifier: env_auto_createRLnrs
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
