@@ -1,0 +1,21 @@
+template:
+  name: step_template_auto_createZoJ6k
+  identifier: step_template_auto_createZoJ6k
+  versionLabel: v1_X4gu7
+  type: Step
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  tags: {}
+  spec:
+    timeout: 10m
+    type: ShellScript
+    spec:
+      shell: Bash
+      executionTarget: {}
+      delegateSelectors: []
+      source:
+        type: Inline
+        spec:
+          script: echo HI
+      environmentVariables: []
+      outputVariables: []
