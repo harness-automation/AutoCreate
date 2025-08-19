@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createT0SMd
+  identifier: env_auto_createT0SMd
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
