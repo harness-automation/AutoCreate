@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createt888f
+  identifier: env_auto_createt888f
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
