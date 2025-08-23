@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createvA9CK
+  identifier: env_auto_createvA9CK
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
