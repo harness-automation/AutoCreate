@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createS8Ard
+  identifier: env_auto_createS8Ard
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
