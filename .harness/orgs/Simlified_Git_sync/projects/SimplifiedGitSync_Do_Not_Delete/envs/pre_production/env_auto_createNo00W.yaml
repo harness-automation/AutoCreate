@@ -1,8 +1,0 @@
-environment:
-  name: env_auto_createNo00W
-  identifier: env_auto_createNo00W
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
