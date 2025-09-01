@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_create7XWJZ
+  identifier: env_auto_create7XWJZ
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
