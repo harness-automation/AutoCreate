@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: infra_auto_createA18Kj
+  identifier: infra_auto_createA18Kj
+  environmentRef: env_auto_createwbsRV
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  spec:
+    connectorRef: account.KubernetesAccLvlConnectorForAutomationTest
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
