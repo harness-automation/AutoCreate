@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_createuufXx
+  identifier: env_auto_createuufXx
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
