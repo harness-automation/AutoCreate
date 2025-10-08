@@ -1,0 +1,41 @@
+service:
+  identifier: service_auto_createyMksi
+  name: service_auto_createyMksi
+  tags: {}
+  serviceDefinition:
+    spec:
+      artifacts:
+        primary:
+          primaryArtifactRef: <+input>
+          sources:
+            - spec:
+                connectorRef: public_docker_reg
+                imagePath: library/nginx
+                tag: <+input>
+              identifier: s1
+              type: DockerRegistry
+      variables:
+        - name: svar1
+          type: String
+          value: acasc
+        - name: svar2
+          type: String
+          value: us
+      manifests:
+        - manifest:
+            identifier: nginxapp
+            type: K8sManifest
+            spec:
+              store:
+                type: Github
+                spec:
+                  connectorRef: kubernetes
+                  gitFetchType: Branch
+                  paths:
+                    - content/en/examples/application/nginx-app.yaml
+                  repoName: website
+                  branch: main
+              skipResourceVersioning: false
+              enableDeclarativeRollback: false
+    type: Kubernetes
+  gitOpsEnabled: false
