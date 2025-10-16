@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_create7q45Y
+  identifier: env_auto_create7q45Y
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
