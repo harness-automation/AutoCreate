@@ -1,8 +1,0 @@
-environment:
-  name: env_auto_createVMYRi
-  identifier: env_auto_createVMYRi
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
