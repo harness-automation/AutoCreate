@@ -1,0 +1,22 @@
+inputSet:
+  name: inputSet_auto_createk8t5B
+  tags: {}
+  identifier: inputSet_auto_createk8t5B
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  pipeline:
+    identifier: pipeline_auto_create1HEI1
+    stages:
+      - stage:
+          identifier: sdf
+          type: Approval
+          spec:
+            execution:
+              steps:
+                - step:
+                    identifier: dsc
+                    type: HarnessApproval
+                    spec:
+                      approvers:
+                        userGroups:
+                          - account._account_all_users
