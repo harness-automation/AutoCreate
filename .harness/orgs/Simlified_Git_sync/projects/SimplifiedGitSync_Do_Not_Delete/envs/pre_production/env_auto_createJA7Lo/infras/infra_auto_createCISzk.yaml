@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: infra_auto_createCISzk
+  identifier: infra_auto_createCISzk
+  environmentRef: env_auto_createJA7Lo
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  spec:
+    connectorRef: account.KubernetesAccLvlConnectorForAutomationTest
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
