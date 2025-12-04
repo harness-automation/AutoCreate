@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: infra_auto_createjr3ef
+  identifier: infra_auto_createjr3ef
+  environmentRef: env_auto_create7BQz7
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  spec:
+    connectorRef: account.KubernetesAccLvlConnectorForAutomationTest
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
