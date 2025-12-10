@@ -1,0 +1,21 @@
+template:
+  name: step_template_auto_create5YMvA
+  identifier: step_template_auto_create5YMvA
+  versionLabel: v1_oPjIi
+  type: Step
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  tags: {}
+  spec:
+    timeout: 10m
+    type: ShellScript
+    spec:
+      shell: Bash
+      executionTarget: {}
+      delegateSelectors: []
+      source:
+        type: Inline
+        spec:
+          script: echo HI
+      environmentVariables: []
+      outputVariables: []
