@@ -1,0 +1,8 @@
+environment:
+  name: env_auto_create0zPeh
+  identifier: env_auto_create0zPeh
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: anishndevtest_temp
