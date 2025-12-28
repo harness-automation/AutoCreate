@@ -1,8 +1,0 @@
-environment:
-  name: env_auto_createmsBjv
-  identifier: env_auto_createmsBjv
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: default
-  projectIdentifier: anishndevtest_temp
