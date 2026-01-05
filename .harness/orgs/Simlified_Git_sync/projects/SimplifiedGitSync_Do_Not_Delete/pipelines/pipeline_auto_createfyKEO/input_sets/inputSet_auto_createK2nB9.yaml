@@ -1,0 +1,22 @@
+inputSet:
+  name: inputSet_auto_createK2nB9
+  tags: {}
+  identifier: inputSet_auto_createK2nB9
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  pipeline:
+    identifier: pipeline_auto_createfyKEO
+    stages:
+      - stage:
+          identifier: sdf
+          type: Approval
+          spec:
+            execution:
+              steps:
+                - step:
+                    identifier: dsc
+                    type: HarnessApproval
+                    spec:
+                      approvers:
+                        userGroups:
+                          - account._account_all_users
