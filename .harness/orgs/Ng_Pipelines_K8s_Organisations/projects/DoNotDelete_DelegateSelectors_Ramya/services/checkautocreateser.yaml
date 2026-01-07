@@ -1,0 +1,5 @@
+service:
+  name: checkautocreateser
+  identifier: checkautocreateser
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_DelegateSelectors_Ramya
