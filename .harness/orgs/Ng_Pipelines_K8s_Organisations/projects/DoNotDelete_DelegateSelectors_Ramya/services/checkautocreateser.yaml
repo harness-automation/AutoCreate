@@ -3,3 +3,36 @@ service:
   identifier: checkautocreateser
   orgIdentifier: Ng_Pipelines_K8s_Organisations
   projectIdentifier: DoNotDelete_DelegateSelectors_Ramya
+  serviceDefinition:
+    spec:
+      artifacts:
+        primary:
+          primaryArtifactRef: <+input>
+          sources:
+            - identifier: ad
+              type: Har
+              spec:
+                registryRef: <+input>
+                type: docker
+                spec:
+                  imagePath: <+input>
+                  tag: <+input>
+                  digest: ""
+      manifests:
+        - manifest:
+            identifier: asd
+            type: K8sManifest
+            spec:
+              store:
+                type: Git
+                spec:
+                  connectorRef: <+input>
+                  gitFetchType: Branch
+                  paths:
+                    - testpath.yaml
+                  repoName: <+input>
+                  branch: main
+              skipResourceVersioning: false
+              enableDeclarativeRollback: false
+              optionalValuesYaml: false
+    type: Kubernetes
