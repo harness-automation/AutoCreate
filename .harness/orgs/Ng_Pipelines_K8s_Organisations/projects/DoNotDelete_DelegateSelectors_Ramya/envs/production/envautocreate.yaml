@@ -1,0 +1,6 @@
+environment:
+  name: envautocreate
+  identifier: envautocreate
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_DelegateSelectors_Ramya
+  type: Production
