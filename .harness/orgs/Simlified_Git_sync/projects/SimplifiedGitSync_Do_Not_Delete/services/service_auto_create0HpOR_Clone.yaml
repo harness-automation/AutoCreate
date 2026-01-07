@@ -11,7 +11,7 @@ service:
               connectorRef: "public_docker_reg"
               imagePath: "library/nginx"
               tag: "<+input>"
-            identifier: "s1"
+            identifier: "s12"
             type: "DockerRegistry"
       variables:
       - name: "svar1"
