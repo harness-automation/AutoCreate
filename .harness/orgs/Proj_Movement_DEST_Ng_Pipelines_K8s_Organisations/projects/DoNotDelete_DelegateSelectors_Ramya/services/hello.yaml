@@ -1,5 +1,0 @@
-service:
-  name: hello
-  identifier: hello
-  orgIdentifier: Proj_Movement_DEST_Ng_Pipelines_K8s_Organisations
-  projectIdentifier: DoNotDelete_DelegateSelectors_Ramya
