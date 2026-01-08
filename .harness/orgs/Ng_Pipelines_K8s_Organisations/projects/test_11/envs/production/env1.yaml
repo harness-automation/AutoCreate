@@ -1,6 +1,0 @@
-environment:
-  name: env1
-  identifier: env1
-  orgIdentifier: Ng_Pipelines_K8s_Organisations
-  projectIdentifier: test_11
-  type: Production
