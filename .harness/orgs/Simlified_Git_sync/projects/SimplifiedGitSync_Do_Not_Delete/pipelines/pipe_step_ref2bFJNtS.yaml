@@ -1,0 +1,29 @@
+pipeline:
+  name: pipe_step_ref2bFJNtS
+  identifier: pipe_step_ref2bFJNtS
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  orgIdentifier: Simlified_Git_sync
+  tags: {}
+  stages:
+    - stage:
+        name: s1
+        identifier: s1
+        description: ""
+        type: Custom
+        spec:
+          execution:
+            steps:
+              - step:
+                  name: ss
+                  identifier: ss
+                  template:
+                    templateRef: step_auto_ref2wP8zJ
+                    versionLabel: v1
+                    templateInputs:
+                      type: ShellScript
+                      spec:
+                        source:
+                          type: Inline
+                          spec:
+                            script: echo hi
+        tags: {}
