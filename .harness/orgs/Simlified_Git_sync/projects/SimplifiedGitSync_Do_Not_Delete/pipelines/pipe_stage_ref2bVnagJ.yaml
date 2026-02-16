@@ -1,0 +1,24 @@
+pipeline:
+  name: pipe_stage_ref2bVnagJ
+  identifier: pipe_stage_ref2bVnagJ
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  orgIdentifier: Simlified_Git_sync
+  tags: { }
+  stages:
+    - stage:
+        name: x2
+        identifier: x2
+        template:
+          templateRef: stage_auto_ref2It2y8
+          versionLabel: v1
+          templateInputs:
+            type: Approval
+            spec:
+              execution:
+                steps:
+                  - step:
+                      identifier: stage
+                      type: HarnessApproval
+                      spec:
+                        approvers:
+                          userGroups: <+input>
