@@ -1,0 +1,27 @@
+template:
+  name: stage_auto_refyrjJ3
+  identifier: stage_auto_refyrjJ3
+  versionLabel: v1
+  type: Stage
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  tags: {}
+  spec:
+    type: Approval
+    spec:
+      execution:
+        steps:
+          - step:
+              name: stage
+              identifier: stage
+              type: HarnessApproval
+              timeout: 1d
+              spec:
+                approvalMessage: Auto-created stage template
+                includePipelineExecutionHistory: true
+                approvers:
+                  minimumCount: 1
+                  disallowPipelineExecutor: false
+                  userGroups: <+input>
+                approverInputs: []
+  tags: {}
