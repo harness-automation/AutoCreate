@@ -1,0 +1,27 @@
+pipeline:
+  name: pipe_step_ref2a6ju1R
+  identifier: pipe_step_ref2a6ju1R
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  orgIdentifier: Simlified_Git_sync
+  tags: {}
+  stages:
+    - stage:
+        name: s1
+        identifier: s1
+        description: Desc Added
+        type: Approval
+        spec:
+          execution:
+            steps:
+              - step:
+                  name: t1
+                  identifier: t1
+                  template:
+                    templateRef: step_auto_ref2CcRG2
+                    versionLabel: v1
+                    templateInputs:
+                      type: HarnessApproval
+                      spec:
+                        approvers:
+                          userGroups: <+input>
+        tags: {}
