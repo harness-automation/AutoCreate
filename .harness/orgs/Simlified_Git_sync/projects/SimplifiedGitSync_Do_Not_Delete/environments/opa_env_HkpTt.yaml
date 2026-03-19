@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_HkpTt
+  identifier: opa_env_HkpTt
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
