@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_G5K4N
+  identifier: opa_env_G5K4N
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
