@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_allowed_OMmAC
+  identifier: opa_infra_allowed_OMmAC
+  environmentRef: opa_env_D8Qt7
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
