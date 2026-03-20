@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_ta0a8
-  identifier: opa_env_ta0a8
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
