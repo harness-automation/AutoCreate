@@ -1,0 +1,22 @@
+pipeline:
+  name: anish5
+  identifier: anish5
+  projectIdentifier: opa_gitx_proj_LrQVr
+  orgIdentifier: Simlified_Git_sync
+  tags: {}
+  stages:
+    - stage:
+        name: Stage2
+        identifier: Stage2
+        description: ""
+        type: Custom
+        spec:
+          execution:
+            steps:
+              - step:
+                  type: Wait
+                  name: Wait_1
+                  identifier: Wait_1
+                  spec:
+                    duration: <+input>
+        tags: {}
