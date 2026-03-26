@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_nRTWB
+  identifier: env_id_pass_nRTWB
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_rsZnr
