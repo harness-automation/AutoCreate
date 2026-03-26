@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_pDaaN
+  identifier: env_id_pass_pDaaN
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_KEdQd
