@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_Ti04u
+  identifier: opa_env_Ti04u
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_COokt
