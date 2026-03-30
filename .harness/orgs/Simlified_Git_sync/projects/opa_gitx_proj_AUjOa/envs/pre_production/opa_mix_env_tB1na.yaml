@@ -1,0 +1,8 @@
+environment:
+  name: opa_mix_env_tB1na
+  identifier: opa_mix_env_tB1na
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_AUjOa
