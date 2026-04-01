@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_PkvTx
+  identifier: opa_env_PkvTx
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_EdWmk
