@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_ZZHwY
+  identifier: opa_env_ZZHwY
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_0MSeG
