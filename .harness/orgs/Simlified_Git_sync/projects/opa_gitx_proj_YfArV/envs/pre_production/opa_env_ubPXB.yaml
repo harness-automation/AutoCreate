@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_ubPXB
+  identifier: opa_env_ubPXB
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_YfArV
