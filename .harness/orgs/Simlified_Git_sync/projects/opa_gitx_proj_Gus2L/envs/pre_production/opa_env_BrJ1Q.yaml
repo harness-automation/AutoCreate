@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_BrJ1Q
+  identifier: opa_env_BrJ1Q
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Gus2L
