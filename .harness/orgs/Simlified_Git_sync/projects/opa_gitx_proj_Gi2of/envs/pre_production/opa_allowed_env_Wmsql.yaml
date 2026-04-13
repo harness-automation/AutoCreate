@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_Wmsql
+  identifier: opa_allowed_env_Wmsql
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Gi2of
