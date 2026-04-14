@@ -1,8 +1,0 @@
-environment:
-  name: opa_allowed_env_GMrFv
-  identifier: opa_allowed_env_GMrFv
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_nJqOu
