@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_NaLFB
+  identifier: opa_env_NaLFB
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_7ZVL7
