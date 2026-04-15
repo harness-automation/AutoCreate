@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_O5WHx
+  identifier: opa_env_O5WHx
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_BYsog
