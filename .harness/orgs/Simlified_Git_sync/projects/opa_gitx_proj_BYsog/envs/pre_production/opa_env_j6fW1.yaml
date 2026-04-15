@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_j6fW1
+  identifier: opa_env_j6fW1
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_BYsog
