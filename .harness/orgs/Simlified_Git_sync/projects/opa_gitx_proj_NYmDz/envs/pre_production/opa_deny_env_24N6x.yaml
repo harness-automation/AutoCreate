@@ -1,8 +1,0 @@
-environment:
-  name: opa_deny_env_24N6x
-  identifier: opa_deny_env_24N6x
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_NYmDz
