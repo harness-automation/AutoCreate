@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_U5bTL
+  identifier: opa_ovr_deny_env_U5bTL
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_NYmDz
