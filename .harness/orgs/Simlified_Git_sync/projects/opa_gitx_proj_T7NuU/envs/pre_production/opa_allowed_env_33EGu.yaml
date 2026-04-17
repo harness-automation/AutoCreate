@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_33EGu
+  identifier: opa_allowed_env_33EGu
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_T7NuU
