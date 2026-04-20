@@ -1,8 +1,0 @@
-environment:
-  name: opa_deny_env_C77WU
-  identifier: opa_deny_env_C77WU
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_e3iAD
