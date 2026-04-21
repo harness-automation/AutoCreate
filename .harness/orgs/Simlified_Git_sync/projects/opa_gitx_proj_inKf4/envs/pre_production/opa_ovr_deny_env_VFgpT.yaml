@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_VFgpT
+  identifier: opa_ovr_deny_env_VFgpT
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_inKf4
