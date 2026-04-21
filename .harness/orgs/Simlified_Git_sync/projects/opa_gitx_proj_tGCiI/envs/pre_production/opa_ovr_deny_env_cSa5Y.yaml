@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_cSa5Y
+  identifier: opa_ovr_deny_env_cSa5Y
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_tGCiI
