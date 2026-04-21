@@ -1,0 +1,8 @@
+environment:
+  name: opa_mix_env_KJI5A
+  identifier: opa_mix_env_KJI5A
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_QXdwl
