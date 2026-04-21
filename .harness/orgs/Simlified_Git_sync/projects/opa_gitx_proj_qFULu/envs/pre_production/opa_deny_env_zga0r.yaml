@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_zga0r
+  identifier: opa_deny_env_zga0r
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_qFULu
