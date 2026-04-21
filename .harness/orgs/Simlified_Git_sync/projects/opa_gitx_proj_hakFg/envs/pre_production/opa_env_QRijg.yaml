@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_QRijg
+  identifier: opa_env_QRijg
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_hakFg
