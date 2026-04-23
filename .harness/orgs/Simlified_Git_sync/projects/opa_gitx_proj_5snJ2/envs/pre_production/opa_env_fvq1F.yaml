@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_fvq1F
+  identifier: opa_env_fvq1F
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_5snJ2
