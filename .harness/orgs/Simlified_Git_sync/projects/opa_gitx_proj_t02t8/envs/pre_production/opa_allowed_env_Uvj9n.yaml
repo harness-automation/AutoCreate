@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_Uvj9n
+  identifier: opa_allowed_env_Uvj9n
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_t02t8
