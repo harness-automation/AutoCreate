@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_TE4Oo
+  identifier: opa_infra_blocked_TE4Oo
+  environmentRef: opa_env_Co4vx
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_5snJ2
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
