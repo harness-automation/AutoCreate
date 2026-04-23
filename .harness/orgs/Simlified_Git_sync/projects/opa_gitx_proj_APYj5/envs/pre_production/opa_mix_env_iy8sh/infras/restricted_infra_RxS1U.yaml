@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: restricted_infra_RxS1U
+  identifier: restricted_infra_RxS1U
+  environmentRef: opa_mix_env_iy8sh
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_APYj5
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
