@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_N9pEA
+  identifier: opa_deny_env_N9pEA
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_t02t8
