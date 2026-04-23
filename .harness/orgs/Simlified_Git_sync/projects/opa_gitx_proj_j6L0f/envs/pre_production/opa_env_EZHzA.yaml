@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_EZHzA
+  identifier: opa_env_EZHzA
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_j6L0f
