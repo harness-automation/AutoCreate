@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_blk_env_zCgBL
+  identifier: opa_fp_blk_env_zCgBL
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_3c8rN
