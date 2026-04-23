@@ -1,8 +1,0 @@
-environment:
-  name: opa_mix_env_aCHYI
-  identifier: opa_mix_env_aCHYI
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_j6L0f
