@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_K8AiV
+  identifier: env_id_pass_K8AiV
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Vxqwa
