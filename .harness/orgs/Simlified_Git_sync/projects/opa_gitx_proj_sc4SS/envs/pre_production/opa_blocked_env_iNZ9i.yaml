@@ -1,8 +1,0 @@
-environment:
-  name: opa_blocked_env_iNZ9i
-  identifier: opa_blocked_env_iNZ9i
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_sc4SS
