@@ -1,8 +1,0 @@
-environment:
-  name: opa_deny_env_X2FtZ
-  identifier: opa_deny_env_X2FtZ
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_sc4SS
