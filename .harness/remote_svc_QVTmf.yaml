@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_QVTmf
+  identifier: remote_svc_QVTmf
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
