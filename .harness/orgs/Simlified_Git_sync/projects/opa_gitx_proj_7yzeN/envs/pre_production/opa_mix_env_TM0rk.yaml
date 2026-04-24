@@ -1,8 +1,0 @@
-environment:
-  name: opa_mix_env_TM0rk
-  identifier: opa_mix_env_TM0rk
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_7yzeN
