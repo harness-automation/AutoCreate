@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_xd61A
+  identifier: opa_deny_env_xd61A
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_JwQ2z
