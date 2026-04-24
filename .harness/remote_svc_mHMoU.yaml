@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_mHMoU
+  identifier: remote_svc_mHMoU
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
