@@ -1,0 +1,18 @@
+template:
+  name: opa_deny_tmpl_9TYSZ
+  identifier: opa_deny_tmpl_9TYSZ
+  versionLabel: v1
+  type: Step
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_beC0Z
+  spec:
+    timeout: 1d
+    type: HarnessApproval
+    spec:
+      approvalMessage: Auto-created step template
+      includePipelineExecutionHistory: true
+      approvers:
+        minimumCount: 1
+        disallowPipelineExecutor: false
+        userGroups: <+input>
+      approverInputs: []
