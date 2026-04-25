@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_RNlrC
+  identifier: opa_env_RNlrC
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_uA0r6
