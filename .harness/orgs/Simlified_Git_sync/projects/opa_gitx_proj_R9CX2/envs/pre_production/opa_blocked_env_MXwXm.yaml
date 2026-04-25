@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_MXwXm
+  identifier: opa_blocked_env_MXwXm
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_R9CX2
