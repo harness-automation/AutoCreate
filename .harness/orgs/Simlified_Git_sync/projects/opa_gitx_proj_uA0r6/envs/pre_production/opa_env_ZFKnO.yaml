@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_ZFKnO
+  identifier: opa_env_ZFKnO
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_uA0r6
