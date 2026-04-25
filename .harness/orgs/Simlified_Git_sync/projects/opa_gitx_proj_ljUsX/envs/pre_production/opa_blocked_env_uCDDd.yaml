@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_uCDDd
+  identifier: opa_blocked_env_uCDDd
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_ljUsX
