@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_endw1
-  identifier: opa_env_endw1
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_87Mmk
