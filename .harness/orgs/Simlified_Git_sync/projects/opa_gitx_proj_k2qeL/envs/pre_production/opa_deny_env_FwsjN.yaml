@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_FwsjN
+  identifier: opa_deny_env_FwsjN
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_k2qeL
