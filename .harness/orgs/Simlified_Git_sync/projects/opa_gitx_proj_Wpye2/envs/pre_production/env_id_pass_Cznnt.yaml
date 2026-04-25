@@ -1,8 +1,0 @@
-environment:
-  name: env_id_pass_Cznnt
-  identifier: env_id_pass_Cznnt
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_Wpye2
