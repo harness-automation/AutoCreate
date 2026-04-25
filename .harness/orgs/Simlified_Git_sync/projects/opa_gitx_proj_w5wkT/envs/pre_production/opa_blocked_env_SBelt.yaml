@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_SBelt
+  identifier: opa_blocked_env_SBelt
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_w5wkT
