@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_allowed_NpnCB
+  identifier: opa_infra_allowed_NpnCB
+  environmentRef: opa_env_RNlrC
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_uA0r6
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
