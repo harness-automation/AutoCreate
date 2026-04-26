@@ -1,0 +1,18 @@
+template:
+  name: tmpl_id_pass_rOc0d
+  identifier: tmpl_id_pass_rOc0d
+  versionLabel: v1
+  type: Step
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_sgfiy
+  spec:
+    timeout: 1d
+    type: HarnessApproval
+    spec:
+      approvalMessage: Auto-created step template
+      includePipelineExecutionHistory: true
+      approvers:
+        minimumCount: 1
+        disallowPipelineExecutor: false
+        userGroups: <+input>
+      approverInputs: []
