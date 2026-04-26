@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_12m6c
+  identifier: env_id_pass_12m6c
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_xkXUX
