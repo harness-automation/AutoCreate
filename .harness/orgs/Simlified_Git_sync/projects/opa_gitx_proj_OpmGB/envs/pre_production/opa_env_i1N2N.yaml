@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_i1N2N
+  identifier: opa_env_i1N2N
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_OpmGB
