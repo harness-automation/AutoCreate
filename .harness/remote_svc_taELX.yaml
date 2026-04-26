@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_taELX
+  identifier: remote_svc_taELX
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
