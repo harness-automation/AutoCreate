@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_allowed_2BKeZ
+  identifier: opa_infra_allowed_2BKeZ
+  environmentRef: opa_env_avtf2
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_7Rl9x
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
