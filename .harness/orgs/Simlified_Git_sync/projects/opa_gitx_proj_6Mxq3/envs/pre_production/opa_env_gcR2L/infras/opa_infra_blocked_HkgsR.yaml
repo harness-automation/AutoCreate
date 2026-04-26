@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_HkgsR
+  identifier: opa_infra_blocked_HkgsR
+  environmentRef: opa_env_gcR2L
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_6Mxq3
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
