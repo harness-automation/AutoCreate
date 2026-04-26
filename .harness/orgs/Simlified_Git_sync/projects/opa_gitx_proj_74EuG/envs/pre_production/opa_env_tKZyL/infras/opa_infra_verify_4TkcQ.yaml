@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_verify_4TkcQ
+  identifier: opa_infra_verify_4TkcQ
+  environmentRef: opa_env_tKZyL
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_74EuG
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
