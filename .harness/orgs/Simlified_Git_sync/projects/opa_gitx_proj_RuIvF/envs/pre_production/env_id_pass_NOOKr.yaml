@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_NOOKr
+  identifier: env_id_pass_NOOKr
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_RuIvF
