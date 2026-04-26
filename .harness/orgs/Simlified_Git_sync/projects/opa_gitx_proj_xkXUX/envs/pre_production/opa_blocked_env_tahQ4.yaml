@@ -1,8 +1,0 @@
-environment:
-  name: opa_blocked_env_tahQ4
-  identifier: opa_blocked_env_tahQ4
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_xkXUX
