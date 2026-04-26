@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_5Ia7X
+  identifier: opa_env_5Ia7X
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Teb7a
