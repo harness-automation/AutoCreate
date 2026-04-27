@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_AVnAE
+  identifier: opa_infra_blocked_AVnAE
+  environmentRef: opa_env_b1u5g
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_qp2IQ
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
