@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_blk_env_BANle
+  identifier: opa_fp_blk_env_BANle
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_pTDHH
