@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: allowed_infra_Cv43Z
+  identifier: allowed_infra_Cv43Z
+  environmentRef: opa_mix_env_mTP5l
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_phZ1T
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
