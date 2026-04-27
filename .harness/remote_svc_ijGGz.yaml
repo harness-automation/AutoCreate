@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_ijGGz
+  identifier: remote_svc_ijGGz
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
