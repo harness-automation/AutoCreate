@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_dH50P
+  identifier: opa_env_dH50P
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_ZJTrb
