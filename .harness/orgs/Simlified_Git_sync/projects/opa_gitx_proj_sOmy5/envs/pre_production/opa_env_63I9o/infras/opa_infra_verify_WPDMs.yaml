@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_verify_WPDMs
+  identifier: opa_infra_verify_WPDMs
+  environmentRef: opa_env_63I9o
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_sOmy5
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
