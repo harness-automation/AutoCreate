@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_VgwBu
+  identifier: remote_svc_VgwBu
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
