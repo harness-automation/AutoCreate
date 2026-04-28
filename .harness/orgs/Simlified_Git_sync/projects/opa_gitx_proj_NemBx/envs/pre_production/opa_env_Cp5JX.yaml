@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_Cp5JX
+  identifier: opa_env_Cp5JX
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_NemBx
