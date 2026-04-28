@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_K6ubx
-  identifier: opa_env_K6ubx
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_FpnG9
