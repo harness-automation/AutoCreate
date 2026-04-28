@@ -1,8 +1,0 @@
-environment:
-  name: env_id_pass_SU2AV
-  identifier: env_id_pass_SU2AV
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_kSNJF
