@@ -1,0 +1,18 @@
+template:
+  name: tmpl_id_pass_EU8s5
+  identifier: tmpl_id_pass_EU8s5
+  versionLabel: v1
+  type: Step
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_kwEBP
+  spec:
+    timeout: 1d
+    type: HarnessApproval
+    spec:
+      approvalMessage: Auto-created step template
+      includePipelineExecutionHistory: true
+      approvers:
+        minimumCount: 1
+        disallowPipelineExecutor: false
+        userGroups: <+input>
+      approverInputs: []
