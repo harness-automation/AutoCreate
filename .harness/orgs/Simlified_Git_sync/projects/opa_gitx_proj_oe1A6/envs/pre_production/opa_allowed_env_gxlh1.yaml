@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_gxlh1
+  identifier: opa_allowed_env_gxlh1
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_oe1A6
