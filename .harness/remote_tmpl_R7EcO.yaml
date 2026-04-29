@@ -1,0 +1,19 @@
+template:
+  name: remote_tmpl_R7EcO
+  identifier: remote_tmpl_R7EcO
+  versionLabel: v1
+  type: Step
+  projectIdentifier: opa_gitx_proj_QLoaV
+  orgIdentifier: Simlified_Git_sync
+  tags: {}
+  spec:
+    type: HarnessApproval
+    timeout: 1d
+    spec:
+      approvalMessage: Please review the following information and approve the pipeline progression 
+      includePipelineExecutionHistory: true
+      approvers:
+        userGroups: <+input>
+        minimumCount: 1
+        disallowPipelineExecutor: false
+      approverInputs: []
