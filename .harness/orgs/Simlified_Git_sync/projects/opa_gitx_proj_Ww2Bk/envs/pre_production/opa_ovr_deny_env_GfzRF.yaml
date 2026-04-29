@@ -1,8 +1,0 @@
-environment:
-  name: opa_ovr_deny_env_GfzRF
-  identifier: opa_ovr_deny_env_GfzRF
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_Ww2Bk
