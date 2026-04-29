@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_ue8pq
-  identifier: opa_env_ue8pq
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_CnTgO
