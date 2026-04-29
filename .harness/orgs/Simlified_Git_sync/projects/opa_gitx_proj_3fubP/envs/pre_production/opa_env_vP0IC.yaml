@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_vP0IC
+  identifier: opa_env_vP0IC
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_3fubP
