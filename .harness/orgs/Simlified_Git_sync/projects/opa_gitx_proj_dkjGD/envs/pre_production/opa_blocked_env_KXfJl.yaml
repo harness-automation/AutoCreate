@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_KXfJl
+  identifier: opa_blocked_env_KXfJl
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_dkjGD
