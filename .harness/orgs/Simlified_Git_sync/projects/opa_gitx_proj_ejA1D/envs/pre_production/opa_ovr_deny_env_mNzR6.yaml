@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_mNzR6
+  identifier: opa_ovr_deny_env_mNzR6
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_ejA1D
