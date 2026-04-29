@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_9wein
+  identifier: opa_allowed_env_9wein
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_TXt7J
