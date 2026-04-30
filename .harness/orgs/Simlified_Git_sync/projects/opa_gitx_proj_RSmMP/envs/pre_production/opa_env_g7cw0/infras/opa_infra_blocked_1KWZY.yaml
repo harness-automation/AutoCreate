@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_1KWZY
+  identifier: opa_infra_blocked_1KWZY
+  environmentRef: opa_env_g7cw0
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_RSmMP
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
