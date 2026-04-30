@@ -1,0 +1,32 @@
+pipeline:
+  name: opa_principal_pipeline_ePQiv
+  identifier: opa_principal_pipeline_ePQiv
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_RSmMP
+  tags: {}
+  stages:
+    - stage:
+        name: sdf
+        identifier: sdf
+        description: ""
+        type: Approval
+        spec:
+          execution:
+            steps:
+              - step:
+                  name: dsc
+                  identifier: dsc
+                  type: HarnessApproval
+                  timeout: 1d
+                  spec:
+                    approvalMessage: |-
+                      Please review the following information
+                      and approve the pipeline progression
+                    includePipelineExecutionHistory: true
+                    approvers:
+                      minimumCount: 1
+                      disallowPipelineExecutor: false
+                      userGroups: <+input>
+                    isAutoRejectEnabled: false
+                    approverInputs: []
+        tags: {}
