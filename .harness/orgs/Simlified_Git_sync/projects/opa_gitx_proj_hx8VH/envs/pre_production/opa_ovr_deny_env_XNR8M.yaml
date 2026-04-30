@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_XNR8M
+  identifier: opa_ovr_deny_env_XNR8M
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_hx8VH
