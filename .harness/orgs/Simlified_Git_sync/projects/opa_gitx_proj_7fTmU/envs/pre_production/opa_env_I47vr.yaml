@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_I47vr
-  identifier: opa_env_I47vr
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_7fTmU
