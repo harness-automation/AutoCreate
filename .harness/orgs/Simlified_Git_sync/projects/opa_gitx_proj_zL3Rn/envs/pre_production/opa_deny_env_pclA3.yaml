@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_pclA3
+  identifier: opa_deny_env_pclA3
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_zL3Rn
