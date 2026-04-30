@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_96Bxv
+  identifier: opa_allowed_env_96Bxv
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_07w7K
