@@ -1,8 +1,0 @@
-environment:
-  name: opa_deny_env_D65Bj
-  identifier: opa_deny_env_D65Bj
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_WReSO
