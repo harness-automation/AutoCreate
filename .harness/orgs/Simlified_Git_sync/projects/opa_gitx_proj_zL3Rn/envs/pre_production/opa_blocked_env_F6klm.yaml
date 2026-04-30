@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_F6klm
+  identifier: opa_blocked_env_F6klm
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_zL3Rn
