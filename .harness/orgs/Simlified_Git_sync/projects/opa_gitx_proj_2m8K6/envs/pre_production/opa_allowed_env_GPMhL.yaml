@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_GPMhL
+  identifier: opa_allowed_env_GPMhL
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_2m8K6
