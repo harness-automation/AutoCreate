@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_GWN2E
+  identifier: opa_infra_blocked_GWN2E
+  environmentRef: opa_env_COWXg
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_3YAN1
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
