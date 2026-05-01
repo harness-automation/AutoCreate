@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_TupyZ
+  identifier: opa_env_TupyZ
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_A9p1A
