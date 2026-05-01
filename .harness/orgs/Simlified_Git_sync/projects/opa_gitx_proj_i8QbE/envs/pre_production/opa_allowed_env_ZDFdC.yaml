@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_ZDFdC
+  identifier: opa_allowed_env_ZDFdC
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_i8QbE
