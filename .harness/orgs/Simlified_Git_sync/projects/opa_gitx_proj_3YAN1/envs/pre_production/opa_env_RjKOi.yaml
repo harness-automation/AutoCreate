@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_RjKOi
+  identifier: opa_env_RjKOi
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_3YAN1
