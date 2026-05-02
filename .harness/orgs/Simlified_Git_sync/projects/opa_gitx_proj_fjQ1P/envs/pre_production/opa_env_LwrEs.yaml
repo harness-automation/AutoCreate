@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_LwrEs
+  identifier: opa_env_LwrEs
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_fjQ1P
