@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_SW2HR
+  identifier: opa_env_SW2HR
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_s5DGd
