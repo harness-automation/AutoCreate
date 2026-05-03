@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_M05vw
+  identifier: opa_infra_blocked_M05vw
+  environmentRef: opa_env_UfSRg
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_SXJEw
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
