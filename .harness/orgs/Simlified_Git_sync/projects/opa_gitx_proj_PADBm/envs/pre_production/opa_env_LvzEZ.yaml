@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_LvzEZ
+  identifier: opa_env_LvzEZ
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_PADBm
