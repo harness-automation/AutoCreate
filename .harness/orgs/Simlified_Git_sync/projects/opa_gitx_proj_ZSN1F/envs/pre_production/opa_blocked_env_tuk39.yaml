@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_tuk39
+  identifier: opa_blocked_env_tuk39
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_ZSN1F
