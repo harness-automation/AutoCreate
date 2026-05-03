@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_jUGaO
+  identifier: opa_ovr_deny_env_jUGaO
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_ZSN1F
