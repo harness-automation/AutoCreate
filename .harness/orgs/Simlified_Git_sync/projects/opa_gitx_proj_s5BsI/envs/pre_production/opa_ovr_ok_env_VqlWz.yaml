@@ -1,8 +1,0 @@
-environment:
-  name: opa_ovr_ok_env_VqlWz
-  identifier: opa_ovr_ok_env_VqlWz
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_s5BsI
