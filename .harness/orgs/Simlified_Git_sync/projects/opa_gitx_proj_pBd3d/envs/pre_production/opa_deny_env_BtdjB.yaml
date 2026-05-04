@@ -1,8 +1,0 @@
-environment:
-  name: opa_deny_env_BtdjB
-  identifier: opa_deny_env_BtdjB
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_pBd3d
