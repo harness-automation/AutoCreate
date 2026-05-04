@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_I4NAl
-  identifier: opa_env_I4NAl
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_M8aFu
