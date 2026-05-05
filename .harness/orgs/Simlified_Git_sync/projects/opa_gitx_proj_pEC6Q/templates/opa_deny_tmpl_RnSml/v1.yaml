@@ -1,0 +1,18 @@
+template:
+  name: opa_deny_tmpl_RnSml
+  identifier: opa_deny_tmpl_RnSml
+  versionLabel: v1
+  type: Step
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_pEC6Q
+  spec:
+    timeout: 1d
+    type: HarnessApproval
+    spec:
+      approvalMessage: Auto-created step template
+      includePipelineExecutionHistory: true
+      approvers:
+        minimumCount: 1
+        disallowPipelineExecutor: false
+        userGroups: <+input>
+      approverInputs: []
