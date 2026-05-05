@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_UateP
+  identifier: opa_ovr_deny_env_UateP
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_C4iXg
