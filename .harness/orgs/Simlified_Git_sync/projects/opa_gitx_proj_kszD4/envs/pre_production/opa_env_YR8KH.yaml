@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_YR8KH
+  identifier: opa_env_YR8KH
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_kszD4
