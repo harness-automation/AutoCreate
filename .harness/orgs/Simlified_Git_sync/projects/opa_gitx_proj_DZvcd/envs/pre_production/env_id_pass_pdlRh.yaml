@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_pdlRh
+  identifier: env_id_pass_pdlRh
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_DZvcd
