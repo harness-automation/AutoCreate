@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_PS20H
+  identifier: opa_env_PS20H
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_2iJD9
