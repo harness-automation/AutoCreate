@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_wccNw
-  identifier: opa_env_wccNw
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_ybLMs
