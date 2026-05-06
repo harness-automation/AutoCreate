@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_mPSQL
+  identifier: remote_svc_mPSQL
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
