@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_Wz28v
+  identifier: opa_infra_blocked_Wz28v
+  environmentRef: opa_env_lhPNK
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_y7rcr
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
