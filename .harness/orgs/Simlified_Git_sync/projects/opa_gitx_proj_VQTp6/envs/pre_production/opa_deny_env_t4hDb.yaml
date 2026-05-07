@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_t4hDb
+  identifier: opa_deny_env_t4hDb
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_VQTp6
