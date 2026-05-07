@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_N2HtQ
+  identifier: opa_env_N2HtQ
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_gSUZ2
