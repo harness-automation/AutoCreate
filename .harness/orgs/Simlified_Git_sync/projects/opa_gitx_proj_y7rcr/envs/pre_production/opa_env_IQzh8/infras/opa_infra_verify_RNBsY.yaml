@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_verify_RNBsY
+  identifier: opa_infra_verify_RNBsY
+  environmentRef: opa_env_IQzh8
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_y7rcr
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
