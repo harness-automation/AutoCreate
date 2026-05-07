@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_ge9RC
-  identifier: opa_env_ge9RC
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_UXifX
