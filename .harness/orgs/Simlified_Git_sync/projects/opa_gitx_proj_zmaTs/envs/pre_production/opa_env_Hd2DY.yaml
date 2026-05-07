@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_Hd2DY
+  identifier: opa_env_Hd2DY
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_zmaTs
