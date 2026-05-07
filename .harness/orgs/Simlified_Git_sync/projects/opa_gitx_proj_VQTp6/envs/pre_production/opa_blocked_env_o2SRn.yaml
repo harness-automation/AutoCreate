@@ -1,8 +1,0 @@
-environment:
-  name: opa_blocked_env_o2SRn
-  identifier: opa_blocked_env_o2SRn
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_VQTp6
