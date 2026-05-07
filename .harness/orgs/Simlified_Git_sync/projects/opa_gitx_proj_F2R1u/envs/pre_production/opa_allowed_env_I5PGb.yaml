@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_I5PGb
+  identifier: opa_allowed_env_I5PGb
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_F2R1u
