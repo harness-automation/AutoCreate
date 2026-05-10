@@ -1,8 +1,0 @@
-environment:
-  name: opa_ovr_deny_env_F3Zyj
-  identifier: opa_ovr_deny_env_F3Zyj
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_2DMjf
