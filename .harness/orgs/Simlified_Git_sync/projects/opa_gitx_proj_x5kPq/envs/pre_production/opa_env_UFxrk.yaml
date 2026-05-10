@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_UFxrk
+  identifier: opa_env_UFxrk
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_x5kPq
