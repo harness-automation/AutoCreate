@@ -1,0 +1,8 @@
+environment:
+  name: opa_mix_env_NIc5K
+  identifier: opa_mix_env_NIc5K
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_avpQK
