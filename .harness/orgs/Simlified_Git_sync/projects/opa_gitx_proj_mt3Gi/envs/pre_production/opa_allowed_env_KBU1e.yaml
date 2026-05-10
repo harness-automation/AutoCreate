@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_KBU1e
+  identifier: opa_allowed_env_KBU1e
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_mt3Gi
