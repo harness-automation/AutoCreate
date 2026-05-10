@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_mxHls
-  identifier: opa_env_mxHls
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_Nbl3i
