@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_ayeeo
+  identifier: opa_allowed_env_ayeeo
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_2DMjf
