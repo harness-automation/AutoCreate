@@ -1,8 +1,0 @@
-environment:
-  name: opa_blocked_env_G3K7y
-  identifier: opa_blocked_env_G3K7y
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_Dj54o
