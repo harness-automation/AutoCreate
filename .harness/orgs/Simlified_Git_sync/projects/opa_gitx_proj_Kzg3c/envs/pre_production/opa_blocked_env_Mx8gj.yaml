@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_Mx8gj
+  identifier: opa_blocked_env_Mx8gj
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Kzg3c
