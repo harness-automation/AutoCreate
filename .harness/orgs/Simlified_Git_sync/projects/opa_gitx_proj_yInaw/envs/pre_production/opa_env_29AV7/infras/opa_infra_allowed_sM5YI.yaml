@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_allowed_sM5YI
+  identifier: opa_infra_allowed_sM5YI
+  environmentRef: opa_env_29AV7
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_yInaw
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
