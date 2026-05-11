@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_94b6J
+  identifier: opa_allowed_env_94b6J
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_4IpPj
