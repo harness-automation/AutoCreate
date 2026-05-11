@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_blk_env_s4Fld
+  identifier: opa_fp_blk_env_s4Fld
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_xpZFV
