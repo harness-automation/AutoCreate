@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_8LKXi
+  identifier: remote_svc_8LKXi
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
