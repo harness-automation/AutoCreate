@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_ZZFLN
-  identifier: opa_env_ZZFLN
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_fHnpV
