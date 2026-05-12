@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_DK8qo
+  identifier: opa_blocked_env_DK8qo
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_5n2AX
