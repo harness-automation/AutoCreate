@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_Ce8OI
+  identifier: remote_svc_Ce8OI
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
