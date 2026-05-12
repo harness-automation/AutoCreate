@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_XSa1A
+  identifier: opa_allowed_env_XSa1A
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_1sqmn
