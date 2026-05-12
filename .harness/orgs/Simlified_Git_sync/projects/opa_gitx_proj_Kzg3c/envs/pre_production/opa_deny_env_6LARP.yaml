@@ -1,8 +1,0 @@
-environment:
-  name: opa_deny_env_6LARP
-  identifier: opa_deny_env_6LARP
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_Kzg3c
