@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: pm_auto_infra_XXL1l
+  identifier: pm_auto_infra_XXL1l
+  environmentRef: pm_auto_env_Ehtk6
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: pm_auto_create_proj_M10Eq
+  spec:
+    connectorRef: account.KubernetesAccLvlConnectorForAutomationTest
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
