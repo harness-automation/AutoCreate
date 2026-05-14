@@ -1,8 +1,0 @@
-environment:
-  name: pm_auto_env_M7kRT
-  identifier: pm_auto_env_M7kRT
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Ng_Pipelines_K8s_Organisations
-  projectIdentifier: pm_auto_create_proj_Dok9k
