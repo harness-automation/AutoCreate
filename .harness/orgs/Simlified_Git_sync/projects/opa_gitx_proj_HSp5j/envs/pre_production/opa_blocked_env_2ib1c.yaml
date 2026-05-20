@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_2ib1c
+  identifier: opa_blocked_env_2ib1c
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_HSp5j
