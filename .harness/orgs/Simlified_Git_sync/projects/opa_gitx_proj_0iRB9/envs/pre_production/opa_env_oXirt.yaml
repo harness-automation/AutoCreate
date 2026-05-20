@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_oXirt
+  identifier: opa_env_oXirt
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_0iRB9
