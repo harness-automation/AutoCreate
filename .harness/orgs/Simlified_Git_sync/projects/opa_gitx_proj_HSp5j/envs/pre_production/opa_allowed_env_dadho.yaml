@@ -1,8 +1,0 @@
-environment:
-  name: opa_allowed_env_dadho
-  identifier: opa_allowed_env_dadho
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_HSp5j
