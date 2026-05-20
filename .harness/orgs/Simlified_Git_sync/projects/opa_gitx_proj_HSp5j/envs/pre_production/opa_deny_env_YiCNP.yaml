@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_YiCNP
+  identifier: opa_deny_env_YiCNP
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_HSp5j
