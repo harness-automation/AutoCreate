@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_dDYeE
+  identifier: opa_blocked_env_dDYeE
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_9V58m
