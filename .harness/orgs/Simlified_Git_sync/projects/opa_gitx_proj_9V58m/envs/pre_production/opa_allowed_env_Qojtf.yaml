@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_Qojtf
+  identifier: opa_allowed_env_Qojtf
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_9V58m
