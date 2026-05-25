@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_Bf5xU
+  identifier: remote_svc_Bf5xU
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
