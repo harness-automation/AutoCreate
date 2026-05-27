@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_blk_env_HVcb9
+  identifier: opa_fp_blk_env_HVcb9
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_L8z9S
