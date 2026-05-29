@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_Pff0n
+  identifier: opa_env_Pff0n
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_O7CN2
