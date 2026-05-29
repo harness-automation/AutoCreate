@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_5mps6
+  identifier: opa_blocked_env_5mps6
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_4lStg
