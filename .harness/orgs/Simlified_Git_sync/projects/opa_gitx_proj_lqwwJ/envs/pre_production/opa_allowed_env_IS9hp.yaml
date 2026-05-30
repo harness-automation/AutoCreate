@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_IS9hp
+  identifier: opa_allowed_env_IS9hp
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_lqwwJ
