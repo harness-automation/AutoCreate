@@ -1,8 +1,0 @@
-environment:
-  name: opa_fp_blk_env_L7ff7
-  identifier: opa_fp_blk_env_L7ff7
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_r7cGC
