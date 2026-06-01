@@ -1,8 +1,0 @@
-environment:
-  name: opa_deny_env_x1iuP
-  identifier: opa_deny_env_x1iuP
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_r7cGC
