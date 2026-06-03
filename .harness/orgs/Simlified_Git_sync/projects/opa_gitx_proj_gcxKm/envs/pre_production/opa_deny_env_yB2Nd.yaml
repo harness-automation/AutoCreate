@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_yB2Nd
+  identifier: opa_deny_env_yB2Nd
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_gcxKm
