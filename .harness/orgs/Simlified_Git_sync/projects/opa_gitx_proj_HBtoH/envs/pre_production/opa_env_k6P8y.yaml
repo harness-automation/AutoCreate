@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_k6P8y
+  identifier: opa_env_k6P8y
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_HBtoH
