@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_1vmVs
-  identifier: opa_env_1vmVs
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_plgu6
