@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_1M3FT
+  identifier: opa_env_1M3FT
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_uxvyX
