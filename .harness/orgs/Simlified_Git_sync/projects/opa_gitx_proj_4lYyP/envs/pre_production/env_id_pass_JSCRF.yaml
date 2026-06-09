@@ -1,8 +1,0 @@
-environment:
-  name: env_id_pass_JSCRF
-  identifier: env_id_pass_JSCRF
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_4lYyP
