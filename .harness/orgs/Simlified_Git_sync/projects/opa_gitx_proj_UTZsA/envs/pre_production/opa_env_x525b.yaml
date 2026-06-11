@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_x525b
+  identifier: opa_env_x525b
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_UTZsA
