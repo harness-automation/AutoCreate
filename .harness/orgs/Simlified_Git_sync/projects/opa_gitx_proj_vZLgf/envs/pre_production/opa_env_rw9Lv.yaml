@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_rw9Lv
+  identifier: opa_env_rw9Lv
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_vZLgf
