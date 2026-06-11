@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_7kMcV
+  identifier: opa_allowed_env_7kMcV
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_RgAmI
