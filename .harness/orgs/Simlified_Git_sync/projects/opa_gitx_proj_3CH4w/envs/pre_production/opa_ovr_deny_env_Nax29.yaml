@@ -1,8 +1,0 @@
-environment:
-  name: opa_ovr_deny_env_Nax29
-  identifier: opa_ovr_deny_env_Nax29
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_3CH4w
