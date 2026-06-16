@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_14iid
-  identifier: opa_env_14iid
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_kKwP8
