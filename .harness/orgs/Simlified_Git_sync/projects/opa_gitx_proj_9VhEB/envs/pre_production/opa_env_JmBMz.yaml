@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_JmBMz
+  identifier: opa_env_JmBMz
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_9VhEB
