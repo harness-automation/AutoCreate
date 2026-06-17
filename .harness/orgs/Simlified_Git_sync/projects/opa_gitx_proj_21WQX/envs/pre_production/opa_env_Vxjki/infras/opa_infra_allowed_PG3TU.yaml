@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_allowed_PG3TU
+  identifier: opa_infra_allowed_PG3TU
+  environmentRef: opa_env_Vxjki
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_21WQX
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
