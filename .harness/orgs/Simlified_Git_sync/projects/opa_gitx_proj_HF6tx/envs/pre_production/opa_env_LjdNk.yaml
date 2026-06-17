@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_LjdNk
+  identifier: opa_env_LjdNk
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_HF6tx
