@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_Aoyab
+  identifier: opa_deny_env_Aoyab
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_G7W5H
