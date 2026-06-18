@@ -1,0 +1,8 @@
+environment:
+  name: opa_mix_env_CLUcp
+  identifier: opa_mix_env_CLUcp
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_NtAo8
