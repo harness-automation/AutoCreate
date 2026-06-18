@@ -1,8 +1,0 @@
-environment:
-  name: opa_ovr_deny_env_fw1Xa
-  identifier: opa_ovr_deny_env_fw1Xa
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_7swU1
