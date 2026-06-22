@@ -1,0 +1,8 @@
+environment:
+  name: opa_mix_env_jApBl
+  identifier: opa_mix_env_jApBl
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_BSW3S
