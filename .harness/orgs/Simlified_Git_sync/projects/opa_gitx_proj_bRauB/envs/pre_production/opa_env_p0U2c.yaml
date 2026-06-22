@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_p0U2c
-  identifier: opa_env_p0U2c
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_bRauB
