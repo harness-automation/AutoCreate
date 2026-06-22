@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_CYzPh
-  identifier: opa_env_CYzPh
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_b6xK5
