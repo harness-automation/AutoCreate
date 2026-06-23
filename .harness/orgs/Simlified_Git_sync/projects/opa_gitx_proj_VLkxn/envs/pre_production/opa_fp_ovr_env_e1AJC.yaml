@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_ovr_env_e1AJC
+  identifier: opa_fp_ovr_env_e1AJC
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_VLkxn
