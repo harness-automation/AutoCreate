@@ -1,0 +1,44 @@
+template:
+  name: temp-mt-svc
+  identifier: tempmtsvc
+  versionLabel: v1
+  type: MonitoredService
+  projectIdentifier: donot_delete_CV
+  orgIdentifier: default
+  tags: {}
+  spec:
+    serviceRef: cvsvc
+    environmentRef: env01
+    type: Application
+    sources:
+      healthSources:
+        - type: Prometheus
+          identifier: cvprome
+          name: cv-prome
+          spec:
+            connectorRef: account.cvprome
+            feature: apm
+            metricDefinitions:
+              - metricName: Prometheus Metric
+                identifier: prometheus_metric
+                serviceFilter: []
+                isManualQuery: true
+                query: " avg(up{job=\"cv-datagen\"})"
+                envFilter: []
+                additionalFilters: []
+                groupName: v1
+                sli:
+                  enabled: false
+                analysis:
+                  riskProfile:
+                    riskCategory: Performance_ResponseTime
+                    thresholdTypes:
+                      - ACT_WHEN_LOWER
+                  liveMonitoring:
+                    enabled: false
+                  deploymentVerification:
+                    enabled: true
+                    serviceInstanceFieldName: instance
+            metricPacks:
+              - identifier: Custom
+                metricThresholds: []
