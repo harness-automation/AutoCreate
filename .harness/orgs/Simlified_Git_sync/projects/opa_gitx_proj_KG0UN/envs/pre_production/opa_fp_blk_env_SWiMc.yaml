@@ -1,8 +1,0 @@
-environment:
-  name: opa_fp_blk_env_SWiMc
-  identifier: opa_fp_blk_env_SWiMc
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_KG0UN
