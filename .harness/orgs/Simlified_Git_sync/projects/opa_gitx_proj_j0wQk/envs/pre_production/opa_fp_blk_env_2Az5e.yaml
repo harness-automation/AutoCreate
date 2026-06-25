@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_blk_env_2Az5e
+  identifier: opa_fp_blk_env_2Az5e
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_j0wQk
