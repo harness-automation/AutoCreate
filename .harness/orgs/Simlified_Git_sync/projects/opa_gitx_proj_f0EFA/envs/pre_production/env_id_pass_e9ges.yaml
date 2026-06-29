@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_e9ges
+  identifier: env_id_pass_e9ges
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_f0EFA
