@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_ovr_env_tTe14
+  identifier: opa_fp_ovr_env_tTe14
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Q85Ci
