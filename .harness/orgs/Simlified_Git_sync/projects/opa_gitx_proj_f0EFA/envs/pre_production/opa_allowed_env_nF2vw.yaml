@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_nF2vw
+  identifier: opa_allowed_env_nF2vw
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_f0EFA
