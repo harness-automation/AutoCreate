@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: restricted_infra_jtycu
+  identifier: restricted_infra_jtycu
+  environmentRef: opa_mix_env_Dhmaw
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_P7OC4
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
