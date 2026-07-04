@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_verify_bymYK
+  identifier: opa_infra_verify_bymYK
+  environmentRef: opa_env_NSp4d
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_rrBlX
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
