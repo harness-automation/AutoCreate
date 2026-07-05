@@ -1,8 +1,0 @@
-environment:
-  name: opa_mix_env_j6PBO
-  identifier: opa_mix_env_j6PBO
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_rrBlX
