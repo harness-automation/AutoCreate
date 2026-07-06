@@ -1,8 +1,0 @@
-environment:
-  name: env_id_pass_IP2Bs
-  identifier: env_id_pass_IP2Bs
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_BS0sA
