@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_BWsCd
+  identifier: opa_blocked_env_BWsCd
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_XNBZc
