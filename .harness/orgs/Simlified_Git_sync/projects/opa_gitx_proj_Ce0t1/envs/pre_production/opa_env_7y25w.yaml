@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_7y25w
+  identifier: opa_env_7y25w
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Ce0t1
