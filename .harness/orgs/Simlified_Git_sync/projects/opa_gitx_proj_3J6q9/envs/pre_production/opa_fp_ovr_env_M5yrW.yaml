@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_ovr_env_M5yrW
+  identifier: opa_fp_ovr_env_M5yrW
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_3J6q9
