@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_iteGJ
+  identifier: env_id_pass_iteGJ
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_hsbZT
