@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_FLJSQ
+  identifier: opa_ovr_deny_env_FLJSQ
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_L7cna
