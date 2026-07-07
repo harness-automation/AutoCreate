@@ -1,8 +1,0 @@
-environment:
-  name: opa_fp_blk_env_nfXTO
-  identifier: opa_fp_blk_env_nfXTO
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_3J6q9
