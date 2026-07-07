@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_ok_env_RIyTU
+  identifier: opa_ovr_ok_env_RIyTU
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_L7cna
