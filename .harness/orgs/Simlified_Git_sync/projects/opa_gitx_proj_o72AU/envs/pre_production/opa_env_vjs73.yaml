@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_vjs73
-  identifier: opa_env_vjs73
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_o72AU
