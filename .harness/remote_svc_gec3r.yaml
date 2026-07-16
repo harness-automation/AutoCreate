@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_gec3r
+  identifier: remote_svc_gec3r
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
