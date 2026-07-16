@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_dmQzo
+  identifier: opa_allowed_env_dmQzo
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_9n5Hl
