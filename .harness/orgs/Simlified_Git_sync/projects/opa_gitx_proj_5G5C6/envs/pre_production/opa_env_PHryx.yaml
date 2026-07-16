@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_PHryx
-  identifier: opa_env_PHryx
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_5G5C6
