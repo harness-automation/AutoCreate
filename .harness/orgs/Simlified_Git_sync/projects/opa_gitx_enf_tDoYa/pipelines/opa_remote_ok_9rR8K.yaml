@@ -1,0 +1,26 @@
+pipeline:
+  name: opa_remote_ok_9rR8K
+  identifier: opa_remote_ok_9rR8K
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_enf_tDoYa
+  tags: {}
+  stages:
+    - stage:
+        name: s1
+        identifier: s1
+        type: Custom
+        spec:
+          execution:
+            steps:
+              - step:
+                  type: ShellScript
+                  name: ShellScript_1
+                  identifier: ShellScript_1
+                  spec:
+                    shell: Bash
+                    onDelegate: true
+                    source:
+                      type: Inline
+                      spec:
+                        script: echo opa_gitx_success
+                  timeout: 10m
