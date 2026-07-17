@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_AoKLf
+  identifier: opa_env_AoKLf
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_4YVPy
