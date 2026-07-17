@@ -1,6 +1,6 @@
 template:
-  name: opa_tmpl_ok_RuZ27
-  identifier: opa_tmpl_ok_RuZ27
+  name: bad_pipeline
+  identifier: bad_pipeline
   versionLabel: v1
   type: Step
   orgIdentifier: Simlified_Git_sync
