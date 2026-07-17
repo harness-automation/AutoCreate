@@ -1,8 +1,0 @@
-environment:
-  name: opa_ovr_deny_env_gh7RF
-  identifier: opa_ovr_deny_env_gh7RF
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_Ktypz
