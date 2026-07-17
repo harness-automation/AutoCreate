@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_yG6Mw
+  identifier: opa_allowed_env_yG6Mw
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_YmktK
