@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_blk_env_EVTdt
+  identifier: opa_fp_blk_env_EVTdt
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Ktypz
