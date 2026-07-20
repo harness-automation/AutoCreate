@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_eMZDh
+  identifier: opa_env_eMZDh
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_K9KFQ
