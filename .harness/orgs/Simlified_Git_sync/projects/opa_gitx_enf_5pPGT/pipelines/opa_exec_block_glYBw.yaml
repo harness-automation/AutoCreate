@@ -1,5 +1,5 @@
 pipeline:
-  name: opa_exec_block_glYBw
+  name: bad_pipeline
   identifier: opa_exec_block_glYBw
   orgIdentifier: Simlified_Git_sync
   projectIdentifier: opa_gitx_enf_5pPGT
