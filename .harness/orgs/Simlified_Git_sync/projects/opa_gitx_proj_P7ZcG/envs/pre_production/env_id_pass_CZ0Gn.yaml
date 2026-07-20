@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_CZ0Gn
+  identifier: env_id_pass_CZ0Gn
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_P7ZcG
