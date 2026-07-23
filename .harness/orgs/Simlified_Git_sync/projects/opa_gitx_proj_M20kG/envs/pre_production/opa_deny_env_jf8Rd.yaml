@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_jf8Rd
+  identifier: opa_deny_env_jf8Rd
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_M20kG
