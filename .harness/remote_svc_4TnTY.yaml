@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_4TnTY
+  identifier: remote_svc_4TnTY
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
