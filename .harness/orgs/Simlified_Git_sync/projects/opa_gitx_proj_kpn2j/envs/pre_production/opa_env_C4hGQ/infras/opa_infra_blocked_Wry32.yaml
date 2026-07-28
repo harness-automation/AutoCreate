@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_Wry32
+  identifier: opa_infra_blocked_Wry32
+  environmentRef: opa_env_C4hGQ
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_kpn2j
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
