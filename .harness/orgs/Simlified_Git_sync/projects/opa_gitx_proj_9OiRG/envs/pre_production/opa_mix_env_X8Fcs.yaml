@@ -1,0 +1,8 @@
+environment:
+  name: opa_mix_env_X8Fcs
+  identifier: opa_mix_env_X8Fcs
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_9OiRG
