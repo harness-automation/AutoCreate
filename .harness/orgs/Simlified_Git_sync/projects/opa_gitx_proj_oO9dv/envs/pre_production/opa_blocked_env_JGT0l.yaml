@@ -1,8 +1,0 @@
-environment:
-  name: opa_blocked_env_JGT0l
-  identifier: opa_blocked_env_JGT0l
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_oO9dv
