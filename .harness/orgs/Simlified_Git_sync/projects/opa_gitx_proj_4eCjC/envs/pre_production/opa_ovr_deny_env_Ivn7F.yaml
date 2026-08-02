@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_Ivn7F
+  identifier: opa_ovr_deny_env_Ivn7F
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_4eCjC
