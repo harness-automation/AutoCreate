@@ -1,4 +1,4 @@
-package opaGitxRevamp.original_package
+package opaGitxRevamp.renamed_package
 
 deny["blocked"] {
   false
