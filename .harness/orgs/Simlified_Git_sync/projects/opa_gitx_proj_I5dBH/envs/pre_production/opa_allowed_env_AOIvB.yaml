@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_AOIvB
+  identifier: opa_allowed_env_AOIvB
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_I5dBH
