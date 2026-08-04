@@ -1,8 +1,0 @@
-environment:
-  name: opa_ovr_deny_env_l9x9T
-  identifier: opa_ovr_deny_env_l9x9T
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_k5yNQ
