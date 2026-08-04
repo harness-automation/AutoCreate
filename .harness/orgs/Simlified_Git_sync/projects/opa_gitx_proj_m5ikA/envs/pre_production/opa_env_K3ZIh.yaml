@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_K3ZIh
+  identifier: opa_env_K3ZIh
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_m5ikA
