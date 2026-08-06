@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_IBkh5
+  identifier: opa_env_IBkh5
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_SopFN
