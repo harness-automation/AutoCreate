@@ -1,0 +1,10 @@
+service:
+  name: opa_fp_api_blk_svc_mFBmg
+  identifier: opa_fp_api_blk_svc_mFBmg
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
