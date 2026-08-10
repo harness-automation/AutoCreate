@@ -1,8 +1,0 @@
-environment:
-  name: opa_mix_env_eINat
-  identifier: opa_mix_env_eINat
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_mVVU5
