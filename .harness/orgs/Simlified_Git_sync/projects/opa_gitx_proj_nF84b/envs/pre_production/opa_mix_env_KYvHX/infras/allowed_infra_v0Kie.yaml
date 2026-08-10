@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: allowed_infra_v0Kie
+  identifier: allowed_infra_v0Kie
+  environmentRef: opa_mix_env_KYvHX
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_nF84b
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
