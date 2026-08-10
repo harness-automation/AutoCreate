@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_0bVaN
+  identifier: remote_svc_0bVaN
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
