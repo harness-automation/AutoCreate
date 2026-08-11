@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_Z9HMI
-  identifier: opa_env_Z9HMI
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_Lwkxz
