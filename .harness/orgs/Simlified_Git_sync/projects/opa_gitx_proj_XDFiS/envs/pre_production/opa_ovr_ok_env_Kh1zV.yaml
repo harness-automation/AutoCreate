@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_ok_env_Kh1zV
+  identifier: opa_ovr_ok_env_Kh1zV
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_XDFiS
