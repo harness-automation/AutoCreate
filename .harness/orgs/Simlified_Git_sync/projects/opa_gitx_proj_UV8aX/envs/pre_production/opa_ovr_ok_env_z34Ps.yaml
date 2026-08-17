@@ -1,8 +1,0 @@
-environment:
-  name: opa_ovr_ok_env_z34Ps
-  identifier: opa_ovr_ok_env_z34Ps
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_UV8aX
