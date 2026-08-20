@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_2osyh
+  identifier: opa_env_2osyh
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_U3Lj0
