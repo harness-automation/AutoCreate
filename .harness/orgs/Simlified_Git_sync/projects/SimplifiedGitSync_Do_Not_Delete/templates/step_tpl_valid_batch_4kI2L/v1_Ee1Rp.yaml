@@ -1,0 +1,18 @@
+template:
+  name: step_tpl_valid_batch_4kI2L
+  identifier: step_tpl_valid_batch_4kI2L
+  versionLabel: v1_Ee1Rp
+  type: Step
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  spec:
+    timeout: 1d
+    type: HarnessApproval
+    spec:
+      approvalMessage: Auto-created step template
+      includePipelineExecutionHistory: true
+      approvers:
+        minimumCount: 1
+        disallowPipelineExecutor: false
+        userGroups: <+input>
+      approverInputs: []
