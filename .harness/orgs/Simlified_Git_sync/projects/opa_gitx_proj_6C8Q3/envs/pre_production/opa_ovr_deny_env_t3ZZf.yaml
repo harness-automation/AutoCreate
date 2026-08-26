@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_t3ZZf
+  identifier: opa_ovr_deny_env_t3ZZf
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_6C8Q3
