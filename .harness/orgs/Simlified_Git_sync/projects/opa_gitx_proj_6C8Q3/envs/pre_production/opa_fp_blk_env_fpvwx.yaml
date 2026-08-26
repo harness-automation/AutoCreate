@@ -1,8 +1,0 @@
-environment:
-  name: opa_fp_blk_env_fpvwx
-  identifier: opa_fp_blk_env_fpvwx
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_6C8Q3
