@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_f8UuT
+  identifier: opa_env_f8UuT
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_MC12f
