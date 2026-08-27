@@ -1,0 +1,10 @@
+service:
+  name: opa_fp_api_blk_svc_7GFgL
+  identifier: opa_fp_api_blk_svc_7GFgL
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
