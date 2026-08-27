@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_1rI45
+  identifier: opa_deny_env_1rI45
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_D7z6j
