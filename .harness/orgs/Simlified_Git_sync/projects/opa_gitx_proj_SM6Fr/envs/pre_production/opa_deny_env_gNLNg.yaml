@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_gNLNg
+  identifier: opa_deny_env_gNLNg
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_SM6Fr
