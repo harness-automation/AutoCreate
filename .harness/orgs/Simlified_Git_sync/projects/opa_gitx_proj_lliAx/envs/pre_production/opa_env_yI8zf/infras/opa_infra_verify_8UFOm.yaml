@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_verify_8UFOm
+  identifier: opa_infra_verify_8UFOm
+  environmentRef: opa_env_yI8zf
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_lliAx
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
