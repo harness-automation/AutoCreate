@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_verify_wNNjk
+  identifier: opa_infra_verify_wNNjk
+  environmentRef: opa_env_MNIPu
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_075av
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
