@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_allowed_m7JeK
+  identifier: opa_infra_allowed_m7JeK
+  environmentRef: opa_env_Y4SOy
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_abQFy
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
