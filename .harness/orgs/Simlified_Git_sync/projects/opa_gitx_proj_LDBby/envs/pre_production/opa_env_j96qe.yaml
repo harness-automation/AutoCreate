@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_j96qe
+  identifier: opa_env_j96qe
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_LDBby
