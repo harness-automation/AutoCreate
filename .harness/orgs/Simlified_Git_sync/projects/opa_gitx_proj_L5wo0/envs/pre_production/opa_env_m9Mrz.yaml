@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_m9Mrz
+  identifier: opa_env_m9Mrz
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_L5wo0
