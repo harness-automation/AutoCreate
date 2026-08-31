@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_allowed_FQUxX
+  identifier: opa_infra_allowed_FQUxX
+  environmentRef: opa_env_UAn1v
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_xSl64
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
