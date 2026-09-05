@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_ZSzoq
+  identifier: remote_svc_ZSzoq
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
