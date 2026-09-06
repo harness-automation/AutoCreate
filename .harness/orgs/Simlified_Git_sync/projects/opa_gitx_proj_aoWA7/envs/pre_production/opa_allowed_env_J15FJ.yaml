@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_J15FJ
+  identifier: opa_allowed_env_J15FJ
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_aoWA7
