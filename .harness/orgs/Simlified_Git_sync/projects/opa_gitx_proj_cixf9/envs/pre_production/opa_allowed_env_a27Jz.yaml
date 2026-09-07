@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_a27Jz
+  identifier: opa_allowed_env_a27Jz
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_cixf9
