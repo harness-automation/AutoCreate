@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_blk_env_Fblob
+  identifier: opa_fp_blk_env_Fblob
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_OxTRR
