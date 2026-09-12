@@ -1,0 +1,8 @@
+environment:
+  name: env_id_pass_3Br0n
+  identifier: env_id_pass_3Br0n
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_mlwJM
