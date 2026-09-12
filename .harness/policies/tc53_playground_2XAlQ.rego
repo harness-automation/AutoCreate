@@ -1,5 +1,5 @@
-package opaGitxRevamp.playground_main
+package opaGitxRevamp.playground_feature
 
-deny["blocked"] {
-  false
+deny[msg] {
+  msg := "blocked by feature branch"
 }
