@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_AAr4e
+  identifier: opa_blocked_env_AAr4e
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_zSI9F
