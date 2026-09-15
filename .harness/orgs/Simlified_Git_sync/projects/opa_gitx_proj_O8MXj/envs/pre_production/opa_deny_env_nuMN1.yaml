@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_nuMN1
+  identifier: opa_deny_env_nuMN1
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_O8MXj
