@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_ok_env_KeqMo
+  identifier: opa_ovr_ok_env_KeqMo
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_ZF8z7
