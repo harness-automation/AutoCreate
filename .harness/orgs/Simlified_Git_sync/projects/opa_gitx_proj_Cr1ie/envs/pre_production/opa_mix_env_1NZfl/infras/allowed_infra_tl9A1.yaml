@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: allowed_infra_tl9A1
+  identifier: allowed_infra_tl9A1
+  environmentRef: opa_mix_env_1NZfl
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Cr1ie
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
