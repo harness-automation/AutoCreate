@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: opa_infra_blocked_O9QoS
+  identifier: opa_infra_blocked_O9QoS
+  environmentRef: opa_env_qmUug
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Cr1ie
+  spec:
+    connectorRef: account.github_Account_level_connector_delegate
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
