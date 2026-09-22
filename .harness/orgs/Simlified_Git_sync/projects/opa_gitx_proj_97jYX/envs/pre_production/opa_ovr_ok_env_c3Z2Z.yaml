@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_ok_env_c3Z2Z
+  identifier: opa_ovr_ok_env_c3Z2Z
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_97jYX
