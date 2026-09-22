@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_zz6SJ
+  identifier: opa_blocked_env_zz6SJ
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_97jYX
