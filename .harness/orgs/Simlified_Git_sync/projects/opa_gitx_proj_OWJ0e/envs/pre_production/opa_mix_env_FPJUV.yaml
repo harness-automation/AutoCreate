@@ -1,0 +1,8 @@
+environment:
+  name: opa_mix_env_FPJUV
+  identifier: opa_mix_env_FPJUV
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_OWJ0e
