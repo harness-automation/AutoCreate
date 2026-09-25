@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_8l7gv
+  identifier: opa_env_8l7gv
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_2IGVF
