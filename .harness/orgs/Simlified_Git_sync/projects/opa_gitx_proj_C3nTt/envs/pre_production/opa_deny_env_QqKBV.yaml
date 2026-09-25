@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_QqKBV
+  identifier: opa_deny_env_QqKBV
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_C3nTt
