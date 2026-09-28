@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_owEkc
+  identifier: opa_env_owEkc
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Xvzbc
