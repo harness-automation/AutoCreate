@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_blk_env_u4W3M
+  identifier: opa_fp_blk_env_u4W3M
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_rcdqc
