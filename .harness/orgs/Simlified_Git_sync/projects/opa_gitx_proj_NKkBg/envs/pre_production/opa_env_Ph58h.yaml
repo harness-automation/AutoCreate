@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_Ph58h
+  identifier: opa_env_Ph58h
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_NKkBg
