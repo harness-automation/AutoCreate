@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_ok_env_4nBiL
+  identifier: opa_ovr_ok_env_4nBiL
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_wHzAh
