@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_7yMoY
+  identifier: opa_env_7yMoY
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_L0kGo
