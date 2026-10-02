@@ -1,5 +1,5 @@
-package opaGitxRevamp.bisync_initial
+package opaGitxRevamp.bisync_updated
 
-deny["initial bisync policy"] {
-  input.pipeline.name == "INITIAL_BLOCK"
+deny["updated bisync policy via git push"] {
+  input.pipeline.name == "UPDATED_BLOCK"
 }
