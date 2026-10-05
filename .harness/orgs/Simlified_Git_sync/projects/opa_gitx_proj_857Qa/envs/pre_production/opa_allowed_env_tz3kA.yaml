@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_tz3kA
+  identifier: opa_allowed_env_tz3kA
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_857Qa
