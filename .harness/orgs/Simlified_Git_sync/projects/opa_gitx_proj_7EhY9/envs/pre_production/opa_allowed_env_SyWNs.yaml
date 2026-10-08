@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_SyWNs
+  identifier: opa_allowed_env_SyWNs
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_7EhY9
