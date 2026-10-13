@@ -1,0 +1,8 @@
+environment:
+  name: repro_env_jaRRf
+  identifier: repro_env_jaRRf
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: repro_opa_proj_ilbKG
