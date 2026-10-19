@@ -1,5 +1,5 @@
-package opaGitxRevamp.pkg_v1
+package opaGitxRevamp.pkg_v2
 
-deny["Pipeline blocked"] {
+deny["Pipeline blocked by v2 policy"] {
   input.pipeline.name == "BLOCK_THIS"
 }
