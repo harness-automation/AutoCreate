@@ -1,5 +1,5 @@
-package opaGitxRevamp.original_pkg
+package opaGitxRevamp.renamed_pkg
 
-deny["original package policy"] {
+deny["renamed package policy"] {
   input.pipeline.name == "BLOCK_THIS"
 }
