@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_xut9i
-  identifier: opa_env_xut9i
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_7PiP8
