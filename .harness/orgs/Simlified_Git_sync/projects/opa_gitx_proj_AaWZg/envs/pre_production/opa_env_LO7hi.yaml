@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_LO7hi
-  identifier: opa_env_LO7hi
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_AaWZg
