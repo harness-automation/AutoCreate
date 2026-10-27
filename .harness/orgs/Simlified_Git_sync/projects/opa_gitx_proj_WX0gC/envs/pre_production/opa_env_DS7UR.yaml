@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_DS7UR
-  identifier: opa_env_DS7UR
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_WX0gC
