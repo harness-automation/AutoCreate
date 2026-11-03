@@ -1,8 +1,0 @@
-environment:
-  name: opa_blocked_env_HKTYA
-  identifier: opa_blocked_env_HKTYA
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_KciDX
