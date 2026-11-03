@@ -1,0 +1,10 @@
+service:
+  name: remote_svc_7CXwM
+  identifier: remote_svc_7CXwM
+  orgIdentifier: $orgIdentifier
+  projectIdentifier: $projectIdentifier
+  serviceDefinition:
+    spec:
+      release:
+        name: <+input>
+    type: Kubernetes
