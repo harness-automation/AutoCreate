@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_v5lLA
+  identifier: opa_allowed_env_v5lLA
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Qufmo
