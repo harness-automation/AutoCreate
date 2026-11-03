@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_eMqmN
+  identifier: opa_env_eMqmN
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_rckgy
