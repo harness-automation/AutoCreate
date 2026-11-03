@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_we0pq
+  identifier: opa_ovr_deny_env_we0pq
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_Qufmo
