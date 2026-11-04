@@ -1,8 +1,0 @@
-environment:
-  name: opa_env_DMAmT
-  identifier: opa_env_DMAmT
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_ln2KC
