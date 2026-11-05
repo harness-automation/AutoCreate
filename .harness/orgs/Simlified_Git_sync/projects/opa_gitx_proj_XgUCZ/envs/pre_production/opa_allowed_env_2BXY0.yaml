@@ -1,0 +1,8 @@
+environment:
+  name: opa_allowed_env_2BXY0
+  identifier: opa_allowed_env_2BXY0
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_XgUCZ
