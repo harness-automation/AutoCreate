@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_MJ3O0
+  identifier: opa_env_MJ3O0
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_AbRFH
