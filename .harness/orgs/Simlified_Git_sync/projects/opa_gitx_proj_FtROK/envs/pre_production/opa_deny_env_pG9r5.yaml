@@ -1,0 +1,8 @@
+environment:
+  name: opa_deny_env_pG9r5
+  identifier: opa_deny_env_pG9r5
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_FtROK
