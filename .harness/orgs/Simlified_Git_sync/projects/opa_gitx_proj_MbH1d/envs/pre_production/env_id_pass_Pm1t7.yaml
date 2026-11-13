@@ -1,8 +1,0 @@
-environment:
-  name: env_id_pass_Pm1t7
-  identifier: env_id_pass_Pm1t7
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_MbH1d
