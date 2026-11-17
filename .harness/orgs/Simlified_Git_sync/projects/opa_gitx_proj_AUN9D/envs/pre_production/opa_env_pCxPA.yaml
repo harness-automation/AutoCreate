@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_pCxPA
+  identifier: opa_env_pCxPA
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_AUN9D
