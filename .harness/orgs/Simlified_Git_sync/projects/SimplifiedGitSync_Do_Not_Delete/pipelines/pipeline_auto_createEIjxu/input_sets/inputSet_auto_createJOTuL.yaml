@@ -1,0 +1,22 @@
+inputSet:
+  name: inputSet_auto_createJOTuL
+  tags: {}
+  identifier: inputSet_auto_createJOTuL
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: SimplifiedGitSync_Do_Not_Delete
+  pipeline:
+    identifier: pipeline_auto_createEIjxu
+    stages:
+      - stage:
+          identifier: sdf
+          type: Approval
+          spec:
+            execution:
+              steps:
+                - step:
+                    identifier: dsc
+                    type: HarnessApproval
+                    spec:
+                      approvers:
+                        userGroups:
+                          - account._account_all_users
