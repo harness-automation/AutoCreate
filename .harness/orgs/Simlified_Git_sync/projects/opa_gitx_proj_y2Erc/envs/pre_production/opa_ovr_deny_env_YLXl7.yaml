@@ -1,0 +1,8 @@
+environment:
+  name: opa_ovr_deny_env_YLXl7
+  identifier: opa_ovr_deny_env_YLXl7
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_y2Erc
