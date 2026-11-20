@@ -1,0 +1,8 @@
+environment:
+  name: opa_blocked_env_ZKXQP
+  identifier: opa_blocked_env_ZKXQP
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_YfS6K
