@@ -1,0 +1,8 @@
+environment:
+  name: opa_fp_ovr_env_VSrJR
+  identifier: opa_fp_ovr_env_VSrJR
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_rBlfC
