@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_VI42Y
+  identifier: opa_env_VI42Y
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_rGqpH
