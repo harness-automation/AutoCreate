@@ -1,8 +1,0 @@
-environment:
-  name: opa_deny_env_9PZ6G
-  identifier: opa_deny_env_9PZ6G
-  description: ""
-  tags: {}
-  type: PreProduction
-  orgIdentifier: Simlified_Git_sync
-  projectIdentifier: opa_gitx_proj_KWL88
