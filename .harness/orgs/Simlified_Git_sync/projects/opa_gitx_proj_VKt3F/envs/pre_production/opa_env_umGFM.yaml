@@ -1,0 +1,8 @@
+environment:
+  name: opa_env_umGFM
+  identifier: opa_env_umGFM
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Simlified_Git_sync
+  projectIdentifier: opa_gitx_proj_VKt3F
